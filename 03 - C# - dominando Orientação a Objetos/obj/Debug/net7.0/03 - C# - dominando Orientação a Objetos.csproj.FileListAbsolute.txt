@@ -1,0 +1,15 @@
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\03 - C# - dominando Orientação a Objetos.csproj.AssemblyReference.cache
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\03 - C# - dominando Orientação a Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\03 - C# - dominando Orientação a Objetos.AssemblyInfoInputs.cache
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\03 - C# - dominando Orientação a Objetos.AssemblyInfo.cs
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\03 - C# - dominando Orientação a Objetos.csproj.CoreCompileInputs.cache
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\03 - C# - dominando Orientação a Objetos.exe
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\03 - C# - dominando Orientação a Objetos.deps.json
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\03 - C# - dominando Orientação a Objetos.runtimeconfig.json
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\03 - C# - dominando Orientação a Objetos.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\03 - C# - dominando Orientação a Objetos.pdb
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\03 - C# - dominando Orientação a Objetos.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\refint\03 - C# - dominando Orientação a Objetos.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\03 - C# - dominando Orientação a Objetos.pdb
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\03 - C# - dominando Orientação a Objetos.genruntimeconfig.cache
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\ref\03 - C# - dominando Orientação a Objetos.dll
