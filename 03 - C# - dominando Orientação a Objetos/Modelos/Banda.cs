@@ -1,6 +1,6 @@
 ﻿namespace ScreenSound.Modelos;
 
-internal class Banda
+internal class Banda : IAvaliavel //quer dizer que ela implmenta a interface
 {
     private List<Album> albuns = new List<Album>();
     private List<Avaliacao> notas = new List<Avaliacao>();
@@ -19,6 +19,9 @@ internal class Banda
             else return notas.Average(e => e.Nota);
         }
     }
+
+    public string Resumo { get; set; }
+
     public List<Album> Albuns => albuns;
 
     public void AdicionarAlbum(Album album) 

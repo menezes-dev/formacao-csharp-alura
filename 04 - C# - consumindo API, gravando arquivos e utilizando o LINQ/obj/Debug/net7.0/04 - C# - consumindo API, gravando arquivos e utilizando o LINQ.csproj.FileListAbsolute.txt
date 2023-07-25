@@ -1,0 +1,15 @@
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.exe
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.deps.json
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.runtimeconfig.json
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\bin\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.pdb
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.csproj.AssemblyReference.cache
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.AssemblyInfoInputs.cache
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.AssemblyInfo.cs
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.csproj.CoreCompileInputs.cache
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net7.0\refint\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.pdb
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net7.0\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.genruntimeconfig.cache
+C:\Users\18472\Documents\Formação C#\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ\obj\Debug\net7.0\ref\04 - C# - consumindo API, gravando arquivos e utilizando o LINQ.dll

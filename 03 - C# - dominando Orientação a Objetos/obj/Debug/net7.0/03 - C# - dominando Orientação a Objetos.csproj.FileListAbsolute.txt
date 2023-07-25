@@ -13,3 +13,16 @@ C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objeto
 C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\03 - C# - dominando Orientação a Objetos.pdb
 C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\03 - C# - dominando Orientação a Objetos.genruntimeconfig.cache
 C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\ref\03 - C# - dominando Orientação a Objetos.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\bin\Debug\net7.0\OpenAI_API.dll
+C:\Users\18472\Documents\Formação C#\03 - C# - dominando Orientação a Objetos\obj\Debug\net7.0\03 - C# - dominando Orientação a Objetos.csproj.CopyComplete

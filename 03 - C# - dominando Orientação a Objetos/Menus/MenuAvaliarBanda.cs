@@ -2,9 +2,9 @@ namespace ScreenSound.Menus;
 using ScreenSound.Modelos;
 internal class MenuAvaliarBanda : Menu //Herança, MenuAvaliarBanda Herda as características de Menu 
 {
-    public void Executar(Dictionary<string, Banda> bandasRegistradas)
+    public override void Executar(Dictionary<string, Banda> bandasRegistradas) //o override é para usar o que tem no ancestral, mas podendo sobrescrever
     {
-        Console.Clear();
+        base.Executar(bandasRegistradas); //Para executar a base dos métodos que tá no ancestral
         ExibirTituloDaOpcao("Avaliar banda");
         Console.Write("Digite o nome da banda que deseja avaliar: ");
         string nomeDaBanda = Console.ReadLine()!;
